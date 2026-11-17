@@ -1,3 +1,31 @@
+<div align="center">
+
+# ⚠️ 个人存档副本 · 非官方
+
+## 本仓库**不是**官方发布渠道
+
+### 仅作个人参考、备份与学习之用
+
+<br>
+
+**原作者 / 官方仓库 → [ccch1mneyyy/dsh-go](https://github.com/ccch1mneyyy/dsh-go)**
+
+**本仓库的直接上游 → [Lightfallingonionroom/plugharness-go](https://github.com/Lightfallingonionroom/plugharness-go)**
+
+<br>
+
+> 如果你需要**使用**、**反馈问题**或**获取最新版本**，请一律前往官方仓库。
+> 本副本不提供支持，也不保证与官方同步。
+>
+> 本仓库自 **2026-11-17** 起与本说明一同修改（依据 AGPL-3.0 第 5 条，
+> 修改版须标注变更与日期）。
+>
+> 请理解，谢谢。
+
+</div>
+
+---
+
 <p align="center">
   <b>简体中文</b> · <a href="README.en.md">English</a>
 </p>
